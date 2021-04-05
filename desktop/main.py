@@ -163,7 +163,7 @@ bindings = [
     [["control", "shift", "a"], None, toggle_mouse_active],
     [["control", "shift", "z"], None, click],
     [["control", "shift", "x"], None, right_click],
-    [["control", "shift", "w"], None, center],
+    [["control", "shift", "3"], None, center],
     [["control", "shift", "1"], None, decrease_sensitivity],
     [["control", "shift", "2"], None, increase_sensitivity],
 ]
